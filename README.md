@@ -6,8 +6,8 @@ A CARtografia transforma mudanças no território em decisões técnicas rastre�
 
 O site Docusaurus publica documentação e protótipo no mesmo GitHub Pages:
 
-- Protótipo: `https://davidijesus.github.io/CARtografia/login`
-- Documentação: `https://davidijesus.github.io/CARtografia/docs/business-plan`
+- Protótipo: `https://davidijesus.github.io/CARtografia/login/`
+- Documentação: `https://davidijesus.github.io/CARtografia/docs/business-plan/`
 
 O deploy publica o conteúdo gerado em `build/` na branch `gh-pages`.
 

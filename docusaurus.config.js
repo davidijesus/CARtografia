@@ -7,7 +7,7 @@ const config = {
   projectName: 'CARtografia',
   deploymentBranch: 'gh-pages',
   onBrokenLinks: 'throw',
-  trailingSlash: false,
+  trailingSlash: true,
   i18n: {
     defaultLocale: 'pt-BR',
     locales: ['pt-BR'],
