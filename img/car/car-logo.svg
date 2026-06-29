@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 190" role="img" aria-labelledby="title desc">
+  <title id="title">CAR Cadastro Ambiental Rural</title>
+  <desc id="desc">Marca institucional do Cadastro Ambiental Rural para o protótipo demonstrativo</desc>
+  <rect width="760" height="190" fill="none"/>
+  <g transform="translate(28 30)">
+    <path d="M22 104C54 38 132 16 198 48c-8 58-55 96-111 92-25-2-47-15-65-36Z" fill="#3c9f4a"/>
+    <path d="M34 99c35-17 74-18 116-1" fill="none" stroke="#14733a" stroke-width="10" stroke-linecap="round"/>
+    <path d="M72 53c18-12 40-18 64-16" fill="none" stroke="#d5e94f" stroke-width="10" stroke-linecap="round"/>
+    <path d="M159 55c26 18 38 43 35 78" fill="none" stroke="#1d6f3d" stroke-width="8" stroke-linecap="round"/>
+    <path d="M39 121c35-11 74-7 119 16" fill="none" stroke="#0f632d" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="129" cy="75" r="10" fill="#0f632d"/>
+    <path d="M17 102c42-7 84 4 126 33" fill="none" stroke="#72c55b" stroke-width="14" stroke-linecap="round"/>
+    <path d="M28 111c46-44 107-55 172-27" fill="none" stroke="#008acb" stroke-width="16" stroke-linecap="round"/>
+  </g>
+  <g transform="translate(240 54)">
+    <text x="0" y="52" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="800" fill="#1f8a3b">CAR</text>
+    <text x="0" y="94" font-family="Arial, Helvetica, sans-serif" font-size="32" font-weight="700" fill="#236348">Cadastro Ambiental Rural</text>
+  </g>
+</svg>

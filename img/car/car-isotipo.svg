@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 160" role="img" aria-labelledby="title">
+  <title id="title">Isótipo CAR</title>
+  <rect width="180" height="160" fill="none"/>
+  <path d="M22 118C54 45 135 21 166 50c-3 70-56 102-113 89-12-3-23-10-31-21Z" fill="#3c9f4a"/>
+  <path d="M34 110c36-16 78-15 121 3" fill="none" stroke="#14733a" stroke-width="10" stroke-linecap="round"/>
+  <path d="M71 56c21-13 43-18 68-13" fill="none" stroke="#d5e94f" stroke-width="10" stroke-linecap="round"/>
+  <path d="M139 62c20 17 28 41 25 71" fill="none" stroke="#1d6f3d" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="126" cy="79" r="10" fill="#0f632d"/>
+  <path d="M22 119c43-10 85-3 128 23" fill="none" stroke="#72c55b" stroke-width="13" stroke-linecap="round"/>
+  <path d="M28 118c43-43 102-54 148-28" fill="none" stroke="#008acb" stroke-width="16" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcartografia_docs=self.webpackChunkcartografia_docs||[]).push([[9647],{7121(e,r,a){a.r(r),a.d(r,{default:()=>n});a(6540);var s=a(4164),c=a(7559),t=a(5500),u=a(2831),o=a(9139),d=a(4848);function n(e){return(0,d.jsx)(t.e3,{className:(0,s.A)(c.G.wrapper.docsPages),children:(0,d.jsx)(o.A,{children:(0,u.v)(e.route.routes)})})}}}]);

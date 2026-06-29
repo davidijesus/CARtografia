@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcartografia_docs=self.webpackChunkcartografia_docs||[]).push([[8488],{8488(c,e,a){a.d(e,{createArchitectureServices:()=>r.S});var r=a(9221);a(1400)}}]);

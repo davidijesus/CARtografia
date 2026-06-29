@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcartografia_docs=self.webpackChunkcartografia_docs||[]).push([[2634],{192(a,r,c){c.r(r),c.d(r,{default:()=>o});c(6540);var s=c(6347),t=c(6025),e=c(4848);function o(){return(0,e.jsx)(s.rd,{to:(0,t.Ay)("/login")})}}}]);
